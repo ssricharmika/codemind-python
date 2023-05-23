@@ -1,6 +1,3 @@
-def findArea(r):
-    pi=3.14
-    return pi*(r*r);
-    
-n=int(input())
-print("%.2f"% findArea(n))
+r=float(input())
+area=3.14*r*r
+print('%0.2f'% area)
