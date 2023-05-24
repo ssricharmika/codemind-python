@@ -12,6 +12,5 @@ if(sum1==y and sum2==x):
     print('Amicable')
 else:
     print('Not Amicable')
-    
         
         
